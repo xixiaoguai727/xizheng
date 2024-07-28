@@ -28,17 +28,17 @@ portrait_caption: >-
 
 education:
 - name: City University of Hong Kong
-  logo: /assets/images/badges/cityulogo.png
+  logo: /assets/images/badges/cityulogo.jpg
   position: PhD in Computer Science
   date: Sep. 2024 - ?
   
 - name: National University of Sinagpore
-  logo: /assets/images/badges/nuslogo.png
+  logo: /assets/images/badges/nuslogo.jpg
   position: MSc in Statistics
   date: Jul. 2023 - Jan. 2024
   
 - name: University of Toronto
-  logo: /assets/images/badges/uoftlogo.png
+  logo: /assets/images/badges/uoftlogo.jpg
   position: B.S. Double majors in Mathematics and statistics, minor in Computer Science
   date: Sep. 2018 - Jun. 2022
 
