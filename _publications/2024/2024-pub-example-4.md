@@ -1,6 +1,6 @@
 ---
 title:          "Examining the effects of battery-saving strategies on mobile user experience"
-date:           2024-05-12 00:01:00 +0800
+date:           2024-04-12 00:01:00 +0800
 selected:       true
 pub:            "Pending"
 # pub_pre:        "Pending "
