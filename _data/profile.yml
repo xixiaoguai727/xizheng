@@ -29,17 +29,17 @@ portrait_caption: >-
 education:
 - name: City University of Hong Kong
   logo: /assets/images/badges/cityulogo.jpg
-  position: PhD in Computer Science
+  position: Ph.D. Student in Computer Science, Human Computer Interaction
   date: Sep. 2024 - ???
   
 - name: National University of Singapore
   logo: /assets/images/badges/nuslogo.png
-  position: MSc in Statistics
+  position: Master of Science, Statistics
   date: Aug. 2022 - Jan. 2024
   
 - name: University of Toronto
   logo: /assets/images/badges/uoft_logo.png
-  position: B.S. Double majors in Mathematics and statistics, minor in Computer Science
+  position: Bachelor of Science, Double Majors in Mathematics and Statistics, Minor in Computer Science
   date: Sep. 2018 - Jun. 2022
 
 # experience:
