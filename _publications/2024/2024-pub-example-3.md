@@ -14,8 +14,8 @@ cover:          /assets/images/covers/cover3.jpg
 authors:
   - Xi Zheng
   - Zhuoyang Li
-  - Dr. Xinning Gui
-  - Dr. Yuhan Luo
+  - Xinning Gui
+  - Yuhan Luo
 links:
   Code: https://github.com/luost26/academic-homepage
   Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
