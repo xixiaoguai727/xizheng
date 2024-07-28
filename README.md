@@ -1,3 +1,7 @@
+This academic homepage template is available at luost26/academic-homepage and many thanks to @luost26 for creating such a wonderful template.
+
+
+
 # academic-homepage
 
 ![Preview](assets/images/etc/preview.png)
