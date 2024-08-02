@@ -9,7 +9,7 @@ pub:            "Pending"
 pub_date:       "2024"
 
 abstract: >-
-  Photo by Pineapple Supply Co. on Unsplash. Massa ultricies mi quis hendrerit dolor magna. Arcu non odio euismod lacinia at quis risus sed. Et tortor at risus viverra. Enim neque volutpat ac tincidunt. Dictum varius duis at consectetur lorem donec.
+  The recent advancements in generative AI have opened up new possibilities for customizing conversational agents, particularly in the field of mental health support. However, little is known about how individuals customize AI for their emotional needs and how such customization impacts their well-being.  To explore these questions, we introduced a platform that enables users to create customized chatbots leveraging GPT and additional services to enhance voice and visual interaction. We invited 22 participants who suffered from light to moderate social loneliness...
 cover:          /assets/images/covers/chatlat_rep.jpg
 authors:
   - Xi Zheng
