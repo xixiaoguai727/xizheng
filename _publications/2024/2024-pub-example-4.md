@@ -9,7 +9,8 @@ pub:            "Pending"
 pub_date:       "2024"
 
 abstract: >-
-  Photo by Pineapple Supply Co. on Unsplash. Massa ultricies mi quis hendrerit dolor magna. Arcu non odio euismod lacinia at quis risus sed. Et tortor at risus viverra. Enim neque volutpat ac tincidunt. Dictum varius duis at consectetur lorem donec.
+  To achieve high-quality performance, modern mobile apps often consume a lot of battery, while battery saving often comes with performance drop (e.g., think about the battery saver in your phone). In this study, we developed two battery saving strategies...
+  
 cover:          /assets/images/covers/cover3.jpg
 authors:
   - Chenhao Hong
